@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?text=SEOKHJ%PROFILE&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=SEOKHJ%PROFILE&animation=fadeIn)
