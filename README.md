@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=SEOKHJ%_PROFILE&animation=fadeIn&section=header&height=300&fontColor=fff&color=0:000,100:2e2e2e)
+![header](https://capsule-render.vercel.app/api?type=waving&text=SEOKHJ%_PROFILE&animation=fadeIn&section=header&height=200&fontSize=30&fontColor=fff&color=0:000,100:2e2e2e)
 
 
 ## 📞 CONTACT
